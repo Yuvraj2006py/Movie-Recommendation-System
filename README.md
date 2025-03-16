@@ -13,10 +13,10 @@ Pandas for data handling
 Pickle for loading precomputed similarity data
 TMDb API for retrieving movie posters
 Installation and Setup
-Clone the repository and navigate to the project directory
-Install the required dependencies
-Run the Streamlit application
-Select a movie and receive recommendations
+1. Clone the repository and navigate to the project directory
+2. Install the required dependencies
+3. Run the Streamlit application
+4. Select a movie and receive recommendations
 Future Improvements
 Enhance the recommendation algorithm with collaborative filtering
 Add filtering options such as genre and release year
